@@ -3,7 +3,7 @@ ICE01hw
 
 ICEwire Maker Space Example 01
 
-Put "Hello World" on the Jade Robot's OLED
+Put "hello AWESOME" on the Jade Robot's OLED
 
 Try:
 - Adding a new message
