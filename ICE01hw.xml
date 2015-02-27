@@ -4,17 +4,17 @@
       <block type="oled_setcursor" id="2" inline="true">
         <value name="STARTX">
           <block type="math_number" id="3">
-            <field name="NUM">10</field>
+            <field name="NUM">30</field>
           </block>
         </value>
         <value name="STARTY">
           <block type="math_number" id="4">
-            <field name="NUM">10</field>
+            <field name="NUM">30</field>
           </block>
         </value>
         <next>
           <block type="oled_drawtext" id="5">
-            <field name="TEXT">Hello World</field>
+            <field name="TEXT">Hello Awesome!</field>
           </block>
         </next>
       </block>
